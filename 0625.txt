@@ -1,5 +1,5 @@
 {
-"spider": "clan://Download/maoys/20220625/custom_spider.jar",
+"spider": "https://raw.githubusercontent.com/dake511/my/main/custom_spider.jar",
 
 "sites": [
 {"key": "csp_77"         ,"name":"🐞酷云七七","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
@@ -32,7 +32,7 @@
 {"key": "开麦K歌搜歌","name": "开麦K歌搜歌","type": 1,"api": "http://jb001.eu5.org/tmp/t/u/kmkgct.php","searchable": 1,"quicksearch": 1,"filterable": 0}, 
 {"key":"csp_Nbys","name":"🐼泥巴(SP需翻墙)","type":3,"api":"csp_Nbys","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"if101资源","name":"if101(海外推荐)","type":0,"api":"https://demo.if101.tv/api.php/provide/vod/at/xml","searchable":1,"quickSearch":0,"filterable":0},
-{"key":"csp_xpath_kangbazi","name":"🥒扛把子影院(XP)","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"clan://Download/maoys/20220625/kangbazi.json"},
+{"key":"csp_xpath_kangbazi","name":"🥒扛把子影院(XP)","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.githubusercontent.com/dake511/my/main/kangbazi.json"},
 {"key": "push_agent","name": "推送","type": 3,"api": "csp_PushAgent","searchable": 0,"quickSearch": 0,"filterable": 0},
 
 //
