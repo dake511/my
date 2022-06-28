@@ -4,6 +4,7 @@
 {"key": "csp_n0ys"      ,"name":"💥1090影视(SP)","type":3,"api":"csp_N0ys","searchable": 1,"quickSearch": 1,"filterable":1,"ext":""},
 {"key": "spider_IKan"    ,"name":"💖爱看(SP)","type":3,"api":"csp_IKan","searchable": 1,"quickSearch": 1,"filterable":1},
 {"key":"csp_xpath_kangbazi","name":"🥒扛把子影院(XP)","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"clan://Download/maoys/20220625/kangbazi.json"},
+{"key": "csp_Mjxq"       ,"name":"🐞美剧星球","type": 3,"api": "csp_Mjxq","searchable": 1,"quickSearch": 1,"filterable": 1},
 //
 {"key":"csp_xpath_网络搜集库qiumi","name":"球迷🏀","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":0,"filterable":1,"ext":"https://gitea.com/99/x/raw/branch/main/516-qiumi.js"},
 {"key": "csp_xpath_88kanqiu","name": "球赛直播","type": 3,"api": "csp_XPath","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://raw.githubusercontents.com/liu673cn/mao/main/sub/xpath/88kanqiu.json"},
@@ -15,7 +16,7 @@
 {"key":"if101资源","name":"if101(海外)","type":0,"api":"https://demo.if101.tv/api.php/provide/vod/at/xml","searchable":1,"quickSearch":0,"filterable":0},
 {"key":"一帆资源(VPN)","name":"if101(海外2)","type":1,"api":"http://api.if101.tv/v1/vod?ac=list","searchable":0,"quickSearch":0},
 //
-{"key": "push_agent","name": "推送","type": 3,"api": "csp_PushAgent","searchable": 0,"quickSearch": 0,"filterable": 0},
+//{"key": "push_agent","name": "推送","type": 3,"api": "csp_PushAgent","searchable": 0,"quickSearch": 0,"filterable": 0},
 //
 
 
@@ -41,5 +42,5 @@
 {"key":"if101资源","name":"if101(海外)","type":0,"api":"https://demo.if101.tv/api.php/provide/vod/at/xml","searchable":1,"quickSearch":0,"filterable":0},
 {"key":"一帆资源(VPN)","name":"if101(海外2)","type":1,"api":"http://api.if101.tv/v1/vod?ac=list","searchable":0,"quickSearch":0},
 //
-{"key": "push_agent","name": "推送","type": 3,"api": "csp_PushAgent","searchable": 0,"quickSearch": 0,"filterable": 0},
+//{"key": "push_agent","name": "推送","type": 3,"api": "csp_PushAgent","searchable": 0,"quickSearch": 0,"filterable": 0},
 //
