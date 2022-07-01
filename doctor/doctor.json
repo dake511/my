@@ -1,6 +1,6 @@
 {
-//"spider":"https://dake511.github.io/my/doctor/baddychen.jar",
-"spider":"https://cdn.jsdelivr.net/gh/dake511/my/doctor/baddychen.jar",
+"spider":"https://dake511.github.io/my/doctor/baddychen.jar",
+//"spider":"https://cdn.jsdelivr.net/gh/dake511/my/doctor/baddychen.jar",
 "lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9mbHlpbmctZ3V5cy5jb2RpbmcubmV0L3AvbWFvL2QvamFyL2dpdC9yYXcvbWFzdGVyL2xpdmUvbXl0di50eHQ="]}]}],
 
 
