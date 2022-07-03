@@ -24,7 +24,6 @@
     {"key":"AliPS","name":"盘搜","type":3,"api":"csp_AliPS","searchable":1,"quickSearch":1,"filterable":1,"ext":"7392c125303c4b1c99991fa097041525"},
   {"key":"Gitcafe","name":"小纸条","type":3,"api":"csp_Gitcafe","searchable":1,"quickSearch":1,"filterable":1,"ext":"7392c125303c4b1c99991fa097041525"},
   {"key":"push_agent","name":"推送","type":3,"api":"csp_PushAgent","searchable":0,"quickSearch":0,"filterable":0,"ext":"7392c125303c4b1c99991fa097041525"}
-  }
   ],
   "lives": [
     {
