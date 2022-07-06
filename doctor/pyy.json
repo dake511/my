@@ -1,7 +1,7 @@
 
 
 {
-"spider":"clan://Download/maoys/pyy/pengyuyan.jar",
+"spider":"https://dake511.github.io/my/doctor/pengyuyan.jar",
 "lives":[{"group":"redirect","channels":[{"name":"redirect","urls":["proxy://do=live&type=txt&ext=aHR0cDovL3R2LnN0ZXZlZWUueHl6L2ZpbGUtNjJiYTgwYWNhMDk2Yg=="]}]}],
 
 
