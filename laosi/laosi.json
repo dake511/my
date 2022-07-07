@@ -1,6 +1,6 @@
 {
-  "spider": "https://dake511.github.io/my/laosi/tangsan.jar",
-  
+//"spider": "https://dake511.github.io/my/laosi/tangsan.jar",
+  "spider": "https://dake511.github.io/my/laosi/tangsan.jar;md5;449aa602dce7e45af933e7afc05a07ea",
   "sites": [
   {"key":"360","name":"360","type":3,"api":"csp_SP360","searchable":1,"quickSearch":1,"filterable":1},
   {"key":"Ikan","name":"Ikan","type":3,"api":"csp_IKan","searchable":1,"quickSearch":1,"filterable":1},
