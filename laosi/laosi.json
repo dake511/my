@@ -32,7 +32,7 @@
         {
           "name": "redirect",
           "urls": [
-            "proxy://do=live&type=txt&ext=aHR0cHM6Ly9hZ2l0LmFpL0NBVC95bW0vcmF3L2JyYW5jaC9tYXN0ZXIv54yr576k55u05pKtLnR4dA=="
+            "proxy://do=live&type=txt&ext=aHR0cDovL3R2LnN0ZXZlZWUueHl6L2ZpbGVzLzYyYzRkZjhmNjA5YWUvbXl0digxKS50eHQ="
           ]
         }
       ]
