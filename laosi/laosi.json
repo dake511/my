@@ -1,6 +1,10 @@
 {
-//"spider": "https://dake511.github.io/my/laosi/tangsan.jar",
-  "spider": "https://dake511.github.io/my/laosi/tangsan.jar;md5;449aa602dce7e45af933e7afc05a07ea",
+"spider": "https://dake511.github.io/my/laosi/tangsan.jar",
+//"spider": "https://dake511.github.io/my/laosi/tangsan.jar;md5;449aa602dce7e45af933e7afc05a07ea",
+  "sites": [
+  {"key":"360","name":"360","type":3,"api":"cs{
+"spider": "https://dake511.github.io/my/laosi/tangsan.jar",
+//"spider": "https://dake511.github.io/my/laosi/tangsan.jar;md5;449aa602dce7e45af933e7afc05a07ea",
   "sites": [
   {"key":"360","name":"360","type":3,"api":"csp_SP360","searchable":1,"quickSearch":1,"filterable":1},
   {"key":"Ikan","name":"Ikan","type":3,"api":"csp_IKan","searchable":1,"quickSearch":1,"filterable":1},
@@ -20,10 +24,10 @@
   {"key":"zxzj","name":"在线之家","type":3,"api":"csp_Zxzj","searchable":1,"quickSearch":1,"filterable":1},
   {"key":"Cokemv","name":"Cokemv","type":3,"api":"csp_Cokemv","searchable":1,"quickSearch":1,"filterable":1},
   {"key":"Auete","name":"Auete","type":3,"api":"csp_Auete","searchable":1,"quickSearch":1,"filterable":1},
-  {"key":"Bili","name":"B站","type":3,"api":"csp_Bili","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://youmostfear.coding.net/p/Fan/d/a/git/raw/main/tester.json"},
-    {"key":"AliPS","name":"盘搜","type":3,"api":"csp_AliPS","searchable":1,"quickSearch":1,"filterable":1,"ext":"7392c125303c4b1c99991fa097041525"},
-  {"key":"Gitcafe","name":"小纸条","type":3,"api":"csp_Gitcafe","searchable":1,"quickSearch":1,"filterable":1,"ext":"7392c125303c4b1c99991fa097041525"},
-  {"key":"push_agent","name":"推送","type":3,"api":"csp_PushAgent","searchable":0,"quickSearch":0,"filterable":0,"ext":"7392c125303c4b1c99991fa097041525"}
+  {"key":"Bili","name":"B站","type":3,"api":"csp_Bili","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitea.com/Pandora2277/Box/raw/branch/master/sub/Bili.json"},
+    {"key":"AliPS","name":"盘搜","type":3,"api":"csp_AliPS","searchable":1,"quickSearch":1,"filterable":1,"ext":"27b06d5221a24199b15f2e573d847430"},
+  {"key":"Gitcafe","name":"小纸条","type":3,"api":"csp_Gitcafe","searchable":1,"quickSearch":1,"filterable":1,"ext":"27b06d5221a24199b15f2e573d847430"},
+  {"key":"push_agent","name":"推送","type":3,"api":"csp_PushAgent","searchable":0,"quickSearch":0,"filterable":0,"ext":"27b06d5221a24199b15f2e573d847430"}
   ],
   "lives": [
     {
@@ -32,7 +36,7 @@
         {
           "name": "redirect",
           "urls": [
-            "proxy://do=live&type=txt&ext=aHR0cDovL3R2LnN0ZXZlZWUueHl6L2ZpbGVzLzYyYzRkZjhmNjA5YWUvbXl0digxKS50eHQ="
+            "proxy://do=live&type=txt&ext=https://gitea.com/Pandora2277/Box/raw/branch/master/sub/Live.txt"
           ]
         }
       ]
@@ -348,4 +352,5 @@
     "cdnjs.hnfenxun.com",
     "cms.qdwght.com"
   ]
+}
 }
