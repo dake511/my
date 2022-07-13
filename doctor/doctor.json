@@ -51,11 +51,16 @@
 {"key":"csp_xpath_lezhutv","name":"乐猪TV(XPM)","type":3,"api":"csp_XPathMac","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitea.com/dxa/1/raw/branch/main/lezhutv.json"},
 {"key":"csp_XBiubiubiubiu_cokemv","name":"cokemv(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://cdn.staticaly.com/gh/tvba/b/main/xb/b00-coke.js"},
 {"key":"csp_appys_美剧虫","name":"🐞美剧虫(V1)","type":3,"api":"csp_AppYs","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://meijuchong.com/api.php/v1.vod"},  
+{"key":"csp_xpath_网络搜集库qiumi","name":"球迷🏀","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":0,"filterable":1,"ext":"https://gitea.com/99/x/raw/branch/main/516-qiumi.js"},
+{"key": "csp_xpath_88kanqiu","name": "球赛直播🏀","type": 3,"api": "csp_XPath","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://raw.githubusercontents.com/liu673cn/mao/main/sub/xpath/88kanqiu.json"},
+{"key":"csp_xpath_A33","name":"MTV🎸","type":3,"api":"csp_XPath","searchable":1,"quickSearch":0,"filterable":1,"ext":"https://gitea.com/99/x/raw/branch/main/mtv"},
+{"key": "官采","name": "官采(JSON)","type": 1,"api": "http://caiji.nxflv.com/api.php/provide/vod/","searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key":"Gitcafe","name":"🐞小纸条","type":3,"api":"csp_GitCafe","searchable":1,"quickSearch":1,"filterable":1,"ext":""},
 {"key":"AliPS","name":"盘搜","type":3,"api":"csp_AliPanSou","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"push_agent","name":"🍭推送（阿里）","type":3,"api":"csp_PushAgent","searchable":0,"quickSearch":0,"filterable":0},
-{"key":"csp_Nbys","name":"🐞泥巴(需爬墙)","type": 3,"api": "csp_Nbys","searchable": 1,"quickSearch": 1,"filterable": 1},
-{"key":"if101资源","name":"✈️if101(海外推荐)","type":0,"api":"https://demo.if101.tv/api.php/provide/vod/at/xml","searchable":1,"quickSearch":0,"filterable":0},
+{"key":"csp_Nbys","name":"🐞泥巴(墙)","type": 3,"api": "csp_Nbys","searchable": 1,"quickSearch": 1,"filterable": 1},
+{"key":"if101资源","name":"✈️if101(海外1)","type":0,"api":"https://demo.if101.tv/api.php/provide/vod/at/xml","searchable":1,"quickSearch":0,"filterable":0},
+{"key":"一帆资源(VPN)","name":"✈️if101(海外2)","type":1,"api":"http://api.if101.tv/v1/vod?ac=list","searchable":0,"quickSearch":0},
 {"key":"海外电影","name":"🌈海外电影(聚)","type":1,"api":"https://www.200121.com/api.php/provide/vod/","searchable":1,"quickSearch":1}
 ],
 
