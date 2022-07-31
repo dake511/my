@@ -18,7 +18,7 @@
       "quickSearch": 1,
       "filterable": 1
     },
-    {
+    //{
       "key": "bdys",
       "name": "哔嘀(磁力测试)",
       "type": 3,
@@ -184,7 +184,7 @@
       "quickSearch": 1,
       "filterable": 1
     },
-    {
+    //{
       "key": "Bili",
       "name": "B站",
       "type": 3,
@@ -242,7 +242,7 @@
         {
           "name": "redirect",
           "urls": [
-            "proxy://do=live&type=txt&ext=https://gitea.com/Pandora2277/Box/raw/branch/master/sub/Live.txt"
+            "proxy://do=live&type=txt&ext=aHR0cHM6Ly9naXRlYS5jb20vbmJoYWkvdHZib3gvcmF3L2JyYW5jaC9tYWluL1RWL2xpdmUudHh0"
           ]
         }
       ]
