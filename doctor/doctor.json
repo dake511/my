@@ -303,7 +303,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "clan://Download/maoys/junyu/bili.json"
+      "ext": "https://dake511.github.io/my/doctor/bili.json"
     },
 //{"key": "Bili","name": "🅱️B站1","type": 3,"api": "csp_Bili","searchable":1,"quickSearch": 1,"filterable": 1,"ext": "https://dake511.github.io/my/doctor/bili.json"},     
 {"key": "csp_BBB"        ,"name":"🅱️B站2","type": 3,"api": "csp_BBB","searchable": 1,"quickSearch": 1,"filterable": 1},
