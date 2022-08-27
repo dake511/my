@@ -66,7 +66,7 @@
       "quickSearch": 1,
       "filterable": 1
     },
-{"key": "Ikan" ,"name": "🐷爱看影视","type": 3,"api": "csp_IKan","searchable": 1,"quickSearch": 1,"filterable": 1},
+{"key": "Ikan" ,"name": "🐷爱看影视(SP)","type": 3,"api": "csp_IKan","searchable": 1,"quickSearch": 1,"filterable": 1},
     {
       "key": "csp_555",
       "name": "🐷五五五(SP)",
@@ -134,7 +134,7 @@
     },
     {
       "key": "Smdyy",
-      "name": "🐷神马影院",
+      "name": "🐷神马影院(SP)",
       "type": 3,
       "api": "csp_Smdyy",
       "searchable": 1,
