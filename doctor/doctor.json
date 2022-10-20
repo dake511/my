@@ -330,7 +330,16 @@
       "quickSearch": 1,
       "filterable": 1
     },
-    {
+
+
+{"key": "Gitcafe","name": "小纸条(新)","type": 3,"api": "csp_Gitcafe","searchable": 1,"playerType": 1,"quickSearch": 1,"filterable": 1,"ext": "token;desc","jar":"https://agit.ai/fenwe/TVBox/raw/branch/master/jar/top97.jar"},
+{"key": "找资源","name": "找资源","type": 3,"api": "csp_Zhaozy","searchable": 1,"playerType": 1,"quickSearch": 1,"filterable": 1,"jar":"https://agit.ai/fenwe/TVBox/raw/branch/master/jar/top97.jar"},
+{"key": "upyunsou","name": "Up云搜","type": 3,"api": "csp_Upyunso","searchable": 1,"quickSearch": 1,"playerType": 1,"filterable": 0,"jar":"https://agit.ai/fenwe/TVBox/raw/branch/master/jar/top97.jar"},
+{"key": "yisou","name": "宜搜","type": 3,"api": "csp_Yisou","searchable": 1,"quickSearch": 1,"playerType": 1,"filterable": 0,"jar":"https://agit.ai/fenwe/TVBox/raw/branch/master/jar/top97.jar"},
+{"key": "AliPS","name": "阿里盘搜","type": 3,"api": "csp_AliPS","searchable": 1,"playerType": 1,"quickSearch": 1,"filterable": 1,"jar":"https://agit.ai/fenwe/TVBox/raw/branch/master/jar/top97.jar"},
+{"key": "push_agent","name": "推送","type": 3,"api": "csp_PushAgent","searchable": 1,"quickSearch": 1,"playerType": 1,"filterable": 1,"ext": "","jar":"https://agit.ai/fenwe/TVBox/raw/branch/master/jar/top97.jar"},
+
+    //{
       "key": "Gitcafe",
       "name": "📜小纸条",
       "type": 3,
@@ -340,7 +349,7 @@
       "filterable": 1,
       "ext": "8f0b3f0dc1834f309f077ea5549e99a8"
     },
-    {
+    //{
       "key": "csp_Yiso",
       "name": "😺易盘搜",
       "type": 3,
@@ -350,7 +359,7 @@
       "filterable": 0,
       "ext": "8f0b3f0dc1834f309f077ea5549e99a8"
     },
-    {
+    //{
       "key": "csp_AliPS",
       "name": "🔍️阿狸盘搜",
       "type": 3,
@@ -360,7 +369,7 @@
       "filterable": 1,
       "ext": "8f0b3f0dc1834f309f077ea5549e99a8"
     },
-    {
+    //{
       "key": "FindZY",
       "name": "👓找资源",
       "type": 3,
@@ -370,7 +379,7 @@
       "filterable": 1,
       "ext": "8f0b3f0dc1834f309f077ea5549e99a8"
     },
-    {
+    //{
       "key": "push_agent",
       "name": "👋🏻推送",
       "type": 3,
