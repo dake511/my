@@ -1,5 +1,5 @@
 {
-  "spider": "https://dake511.github.io/my/doctor/1008神器xy.jar",
+  "spider": "https://dake511.github.io/my/doctor/fenwe0922.jar",
 "recommend": [{"name": "豆瓣推荐","request": {"method": "GET","header": [{"key": "Referer","value": "https://movie.douban.com/"}],
 "url": {"raw": "https://movie.douban.com/j/new_search_subjects?sort=U&range=0,10&tags=&playable=1&start=0&year_range=2022,2022"}},
 "response": {"result": "$.data","data": [{"key": "name","value": "title"},{"key": "note","value": "rate"},{"key": "pic","value": "cover"}]}}],
@@ -337,7 +337,7 @@
 {"key": "upyunsou","name": "Up云搜","type": 3,"api": "csp_Upyunso","searchable": 1,"quickSearch": 1,"playerType": 1,"filterable": 0,"jar":"https://agit.ai/fenwe/TVBox/raw/branch/master/jar/top97.jar"},
 {"key": "yisou","name": "宜搜","type": 3,"api": "csp_Yisou","searchable": 1,"quickSearch": 1,"playerType": 1,"filterable": 0,"jar":"https://agit.ai/fenwe/TVBox/raw/branch/master/jar/top97.jar"},
 {"key": "AliPS","name": "阿里盘搜","type": 3,"api": "csp_AliPS","searchable": 1,"playerType": 1,"quickSearch": 1,"filterable": 1,"jar":"https://agit.ai/fenwe/TVBox/raw/branch/master/jar/top97.jar"},
-{"key": "push_agent","name": "推送","type": 3,"api": "csp_PushAgent","searchable": 1,"quickSearch": 1,"playerType": 1,"filterable": 1,"ext": "","jar":"https://agit.ai/fenwe/TVBox/raw/branch/master/jar/top97.jar"},
+{"key": "push_agent","name": "推送","type": 3,"api": "csp_PushAgent","searchable": 1,"quickSearch": 1,"playerType": 1,"filterable": 1,"ext": "","jar":"https://agit.ai/fenwe/TVBox/raw/branch/master/jar/top97.jar"}
 
     //{
       "key": "Gitcafe",
