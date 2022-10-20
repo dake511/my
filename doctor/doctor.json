@@ -295,7 +295,7 @@
 //{"key": "csp_xpath_网络搜集库qiumi","name": "⚽球迷看球️️️","type": 3,"api": "csp_XPathFilter","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://cdn.staticaly.com/gh/tvba/x/main/516-qiumi.js"},
     
 //{"key": "csp_xpath_88kanqiu", "name": "⚽88看球(XP)", "type": 3, "api": "csp_XPathMac", "searchable": 1, "quickSearch": 1, "filterable": 0, "ext": "https://cdn.jsdelivr.net/gh/YuanHsing/freed@master/TVBox/MaooXP/88kanqiu.json" },
-{
+//{
       "key": "Bili",
       "name": "🅱️B站1",
       "type": 3,
@@ -306,8 +306,8 @@
       "ext": "https://dake511.github.io/my/doctor/bili.json"
     },
 //{"key": "Bili","name": "🅱️B站1","type": 3,"api": "csp_Bili","searchable":1,"quickSearch": 1,"filterable": 1,"ext": "https://dake511.github.io/my/doctor/bili.json"},     
-{"key": "csp_BBB"        ,"name":"🅱️B站2","type": 3,"api": "csp_BBB","searchable": 1,"quickSearch": 1,"filterable": 1},
-{
+//{"key": "csp_BBB"        ,"name":"🅱️B站2","type": 3,"api": "csp_BBB","searchable": 1,"quickSearch": 1,"filterable": 1},
+//{
       "key": "csp_吾爱B站",
       "name": "🅱️B站3",
       "type": 3,
@@ -317,11 +317,11 @@
       "filterable": 1,
       "ext": "https://agit.ai/kuku/kot/raw/branch/master/bilibili.json"
     },
-{"key": "戏曲","name": "🌈戏曲","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "https://dake511.github.io/my/doctor/戏曲.json"},     
-{"key": "演唱会","name": "🌈演唱会1","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "https://dake511.github.io/my/doctor/演唱会.json"},      
-{"key": "csp_Bliyc" ,"name":"🌈演唱会2","type": 3,"api": "csp_Bliyc","searchable": 1,"quickSearch": 1,"filterable": 1},
-{"key": "csp_Blixs"      ,"name":"🌈相声小品","type": 3,"api": "csp_Blixs","searchable": 1,"quickSearch": 1,"filterable": 1},
-{
+//{"key": "戏曲","name": "🌈戏曲","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "https://dake511.github.io/my/doctor/戏曲.json"},     
+//{"key": "演唱会","name": "🌈演唱会1","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "https://dake511.github.io/my/doctor/演唱会.json"},      
+//{"key": "csp_Bliyc" ,"name":"🌈演唱会2","type": 3,"api": "csp_Bliyc","searchable": 1,"quickSearch": 1,"filterable": 1},
+//{"key": "csp_Blixs"      ,"name":"🌈相声小品","type": 3,"api": "csp_Blixs","searchable": 1,"quickSearch": 1,"filterable": 1},
+//{
       "key": "csp_Yj1211",
       "name": "📽️网红直播(SP)",
       "type": 3,
