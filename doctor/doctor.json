@@ -65,16 +65,6 @@
       "ext": "http://www.lezhutv.com/type/{cateId}-{datePg}.html"
     },
     {
-      "key": "csp_xb_5G",
-      "name": "5G(R)",
-      "type": 3,
-      "api": "csp_XBiu",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "https://www.91dyy.tv/te/{cateId}-{catePg}.html"
-    },
-    {
       "key": "csp_xb_ysgc",
       "name": "影视工厂(R)",
       "type": 3,
@@ -86,7 +76,7 @@
     },
     {
         "key": "csp_XBiu_REPEN",
-        "name": "RENPE┃R",
+        "name": "RENPE(R)",
         "type": 3,
         "api": "csp_XBiu",
         "searchable": 1,
@@ -94,6 +84,11 @@
         "filterable": 1,
         "ext": "https://mac.rp123.top/vodshow/{cateId}--------{catePg}---/"
     },
+
+{"key":"csp_xb_fqys","name":"番茄影视(R)","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://tjomet.com/vodshow/{cateId}--------{catePg}---.html"},
+{"key":"csp_xb_达达龟","name":"达达龟(R)","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://www.dadagui.me/vodshow/{cateId}--------{catePg}---.html"},
+{"key":"csp_xb_鸭奈飞","name":"鸭奈飞(R)","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://yanetflix.com/vodshow/{cateId}--------{catePg}---.html"},
+{"key":"csp_xbu_奈飞影视","name":"奈飞影视(R)","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://netflix.mom/vodshow/{cateId}--------{catePg}---.html"},
 
 		{
 			"key": "Gitcafe",
