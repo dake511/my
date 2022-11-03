@@ -162,6 +162,8 @@
       "filterable": "1",
       "ext": "6deed4548c44b18d268a5d828f04d86e"
     },
+{"key":"Tian","name":"天天","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"bdc1c75081e5e477189a463baa47e392"}, 
+{"key":"Pang","name":"胖虎","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"c41fdb671b20925c76fa9b6ff8bad027"},  
     {
       "key": "SP360",
       "name": "SP360",
@@ -651,5 +653,5 @@
     "cdnjs.hnfenxun.com",
     "cms.qdwght.com"
   ],
-  "spider": "https://pandora2277.github.io/cs.jar"
+  "spider": "https://gitea.com/Pandora2277/NoWar/raw/branch/main/cs.txt"
 }
