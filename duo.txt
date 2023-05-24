@@ -1,0 +1,34 @@
+
+{
+    "urls": [
+       
+        {
+            "url": "http://我不是.肥猫.love:63/接口禁止贩卖",
+            "name": "🚀肥猫线路"
+        }, 
+        {
+            "url": "http://饭太硬.ga/tv",
+            "name": "🚀饭太硬线路"
+        },               
+        {
+            "url": "https://gh.t4tv.hz.cz/newtang.bmp",
+            "name": "🚀唐三线路"
+        },
+        {
+            "url": "https://ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/config.json",
+            "name": "🚀蜂蜜线路"
+        },                                                               
+   {
+            "url": "https://raw.gitmirror.com/52670576/tvbox/main/ysc.json",
+            "name": "🚀ysc线路"
+        },     
+{
+            "url": "https://agit.ai/n3rd/N3RD/raw/branch/master/JN/lem.json",
+            "name": "🚀n3rd线路"
+        },
+{
+            "url": "https://agit.ai/gggwzj/gggdeng/raw/branch/master/kbb.bmp",
+            "name": "🚀gggwzj线路"
+        } 
+    ]
+}
